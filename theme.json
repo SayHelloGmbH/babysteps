@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "layout": {
+            "contentSize": "45rem",
+            "wideSize": "80rem"
+        }
+    },
+    "version": 2,
+    "$schema": "https://schemas.wp.org/wp/6.5/theme.json"
+}
