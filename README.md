@@ -1,6 +1,6 @@
 # Baby Steps
 
-This is a WordPress Theme starting point. It contains the absolute minimum amount of code which you need in order to building out a site using the [WordPress Site Editor](https://wordpress.org/documentation/article/site-editor/).
+This is a WordPress Theme starting point. It contains the absolute minimum amount of code which you need in order to start building out a WordPress website using the [Site Editor](https://wordpress.org/documentation/article/site-editor/).
 
 It really is all-but completely empty and will not output **anything** on the website until you start building using the Site Editor. Start with the index.html template, which is the default which will be used if no other, more specific, template is available. An overview of the [site template logic and hierarchy](https://wordpress.org/documentation/article/template-editor/) is available at WordPress.org.
 
